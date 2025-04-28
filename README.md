@@ -1,4 +1,3 @@
-# FOSS
 # README — Knowledge Series: GNU/Linux & FOSS
 
 Welcome!
